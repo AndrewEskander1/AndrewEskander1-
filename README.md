@@ -1,13 +1,11 @@
 <div align="center" width="50">
 
-# Hi, I'm Andrew Eskandar 👋
+# Hey, I'm Andrew Eskandar
 
 ### Data Analyst | Turning raw data into clear decisions
 
-
 ![Totals Hits](https://komarev.com/ghpvc/?username=AndrewEskandar&style=flat&color=orange&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andreweskander1/)
 
 </div>
 
@@ -33,8 +31,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![ERD](https://img.shields.io/badge/Database_Design-ERD-2C3E50?style=flat&logo=databricks&logoColor=white)
 
 ```python
 class DataAnalyst:
@@ -54,18 +51,6 @@ class DataAnalyst:
 
 <hr>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AndrewEskandar&show_icons=true&theme=nord_dark" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewEskandar&layout=compact&theme=nord_dark" width="48%">
-
-</div>
-
-<hr>
-
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andreweskander1/)
