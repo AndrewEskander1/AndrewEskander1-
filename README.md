@@ -4,7 +4,6 @@
 
 ### Data Analyst | Turning raw data into clear decisions
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello" width="60%"/>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=AndrewEskandar&style=flat&color=orange&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
